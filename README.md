@@ -1,8 +1,6 @@
 - 👋 Hi, I’m Jackie
-- 👀 I’m interested in Crypto, NFTs, Blockchain Development.
-- 🌱 I’m currently learning MEV
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in Blockchain Development
+
 
 <!---
 tar0dev/tar0dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
