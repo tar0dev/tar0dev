@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Jackie
-- 👀 I’m interested in Blockchain Development
+- 👀 I’m interested in Backend Development
+- Learning React and more technologies. 
 
 
 <!---
