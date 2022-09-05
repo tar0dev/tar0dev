@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Jackie
-- 👀 I’m interested in Backend Development
-- Learning React and more technologies. 
+- 👀 I’m interested in Cloud Computing
+- Learning something new everyday
 
 
 <!---
