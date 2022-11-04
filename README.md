@@ -1,6 +1,4 @@
 - 👋 Hi, I’m Jackie
-- 👀 I’m interested in Cloud Computing
-- Learning something new everyday
 
 
 <!---
